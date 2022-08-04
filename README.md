@@ -6,9 +6,11 @@ This project is a personal portfolio, created to represent myself and my ongoing
 
 ## Installation
 
-Portfolio may be accessed through the following URL: 
+Portfolio may be accessed through the following URL: https://rensyphon.github.io/DANIEL-LEAKE-PORTFOLIO/
 
 ## Usage
+
+Access at https://rensyphon.github.io/DANIEL-LEAKE-PORTFOLIO/.
 
     ```md
     ![portfolio screenshot](assets/images/screenshot.jpg)
